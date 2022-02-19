@@ -1,7 +1,7 @@
 # Fast-Priest
 Fast-Priest test
 
-Use fastpriestcommand to enable/disable
+Use fastpriest command to enable/disable
 
 Skill-Prediction and NGSP bern supported.
 
